@@ -89,7 +89,7 @@ http://localhost:5000
 > 🖼️ *Screenshot será adicionado em breve.*
 
 <!-- Quando tiver o print, substitua a linha abaixo pela imagem: -->
-<!-- ![Screenshot do MeuCurrículo Blazor](./screenshot.png) -->
+![Screenshot do MeuCurrículo Blazor](./screenshot.png)
 
 ---
 
